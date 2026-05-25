@@ -1,0 +1,11 @@
+body{background-color: aqua;
+
+}
+header{
+    background-color: cornflowerblue;
+    color: rgba(2, 60, 70, 0.151);
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
