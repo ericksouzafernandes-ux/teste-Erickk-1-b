@@ -9,3 +9,11 @@ header{
     margin: 0 auto;
     padding: 20px;
 }
+main{
+    display: flex
+}
+article{
+    background-color: blue;
+    color: aqua;
+    text-align: justify;
+}
